@@ -1,0 +1,3 @@
+when you initialize a repository, a .git directory is created for recording future modifications of your files.
+
+the staging area contains those files (from working directory) that I'm intending to commit
