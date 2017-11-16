@@ -1,3 +1,9 @@
 when you initialize a repository, a .git directory is created for recording future modifications of your files.
 
 the staging area contains those files (from working directory) that I'm intending to commit
+
+How can you use the staging area to make sure you have one commit per logical change? by checking diffs with working directory, or git status
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It's helpful for saving a commit that should be remembered by name, and working on several different versions of the software in parallel
+
